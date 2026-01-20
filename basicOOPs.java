@@ -115,6 +115,9 @@ class Bus implements Vehicle {
 // Automatic memory management.
 // Java has a built-in garbage collector that automatically deallocates memory for objects that are no longer referenced.
 // System.gc() can be called to suggest garbage collection, but it's not guaranteed to run immediately.
+
+// other garbage collection: 
+
 public class basicOOPs {
     public static void main(String[] args){
         Animal cat = new Animal("Tom");  // Creating an object of the class.
