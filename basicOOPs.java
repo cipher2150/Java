@@ -117,6 +117,8 @@ class Bus implements Vehicle {
 // System.gc() can be called to suggest garbage collection, but it's not guaranteed to run immediately.
 
 // other garbage collection: 
+// 1. Mark-and-Sweep
+// 2. Generational Garbage Collection
 
 public class basicOOPs {
     public static void main(String[] args){
