@@ -64,7 +64,7 @@ class varArgsDemo {
 // void test(double a, int b){}
 // Compile-time error.
 // void test(int... nums){}
-// void test(int[] arr){}..
+// void test(int[] arr){}
 // compile-time error due to ambiguity.
 
 public class Enum {
