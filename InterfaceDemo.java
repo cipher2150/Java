@@ -1,6 +1,6 @@
 // An interface is a contract that a class can implement. 
 // It defines a set of abstract methods that the implementing class must provide. 
-// Interfaces are used to achieve abstraction and multiple inheritance in Java.
+// Interfaces are used to achieve abstraction and multiple inheritance in Java.....
 
 import java.util.List;
 
