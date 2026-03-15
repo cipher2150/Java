@@ -1,4 +1,4 @@
-// Enumerations (enums) 
+...// Enumerations (enums) 
 // It is a special Java class that represents a fixed set of constants...
 
 enum PaymentStatus{
