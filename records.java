@@ -6,7 +6,7 @@ record User(String name, int age) {
     }
 }
 
-// Records cannot extend other classes, but they can implement interfaces.
+// Records cannot extend other classes, but they can implement interfaces....
 interface Printable {
     void print();
 }
