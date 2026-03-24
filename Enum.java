@@ -1,5 +1,5 @@
 // Enumerations (enums) 
-// It is a special Java class that represents a fixed set of constants...
+// It is a special Java class that represents a fixed set of constants
 
 enum PaymentStatus{
     PENDING(0, "Payment is pending"),
